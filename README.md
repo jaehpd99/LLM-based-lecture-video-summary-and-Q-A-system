@@ -86,10 +86,19 @@ else:
 **토론 영상 (다화자, 다양한 어조)**
 - 북한/미국 관련 공약 질문 → 문서 기반 적절한 대답 생성
 - 후보 목록 질문 → `'~~~후보'` 텍스트가 문서에 존재하나 제대로 인식 못하는 한계 발생
+<img width="1561" height="606" alt="image" src="https://github.com/user-attachments/assets/0f68c82d-4cbd-4838-a7c9-8f42885084de" />
+
+<img width="1585" height="594" alt="image" src="https://github.com/user-attachments/assets/045f34e9-6fa9-47d0-b4e4-8dc15f42c64c" />
+
 
 **강의 영상 (단일 화자)**
 - 인공신경망, 기계학습 주요 개념 질의 → 정확한 응답
 - `debug` 명령으로 참조한 문서 청크 및 유사도 점수 확인 가능
+<img width="1157" height="556" alt="image" src="https://github.com/user-attachments/assets/f7fc275f-c4bd-4a3a-b303-ecd69b238af6" />
+
+<img width="1583" height="513" alt="image" src="https://github.com/user-attachments/assets/3701c7af-3767-40f5-9280-d10b93d8c1ae" />
+
+
 
 **사용 가능한 명령어**
 
