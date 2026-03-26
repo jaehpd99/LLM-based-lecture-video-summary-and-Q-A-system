@@ -52,7 +52,7 @@
 ### 4-1. STT: Faster-Whisper
 
 - **모델 선택**: Large-v3 vs Medium 비교 → 성능 유사하나 **Medium이 속도가 빠름** → Medium 채택
-- **처리 성능**: 6분 37초 영상을 35정도만에 처리
+- **처리 성능**: 6분 37초 영상을 35초 정도만에 처리 / Large-v3의 경우 100초 소요
 - 한국어 영상은 `task="transcribe"`, 외국어는 `task="translate"` (영어로 번역, 한국어→한국어 직접 지원)
 
 ```python
